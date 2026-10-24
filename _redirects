@@ -1,0 +1,2 @@
+# Intentionally empty. Cloudflare Pages serves slug/index.html at trailing-slash URLs natively.
+# Do not add slash-forcing or rewrite rules here (redirect loop risk).
